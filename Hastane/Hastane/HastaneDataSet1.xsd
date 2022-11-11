@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HastaneDataSet1" targetNamespace="http://tempuri.org/HastaneDataSet1.xsd" xmlns:mstns="http://tempuri.org/HastaneDataSet1.xsd" xmlns="http://tempuri.org/HastaneDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="HastaneConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="HastaneConnectionString (Settings)" PropertyReference="ApplicationSettings.Hastane.Properties.Settings.GlobalReference.Default.HastaneConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="kangrubuTableAdapter" GeneratorDataComponentClassName="kangrubuTableAdapter" Name="kangrubu" UserDataComponentName="kangrubuTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="HastaneConnectionString (Settings)" DbObjectName="kangrubu" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT kangrubuadi FROM kangrubu</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="kangrubuadi" DataSetColumn="kangrubuadi" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="HastaneDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="HastaneDataSet1" msprop:Generator_UserDSName="HastaneDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="kangrubu" msprop:Generator_TableClassName="kangrubuDataTable" msprop:Generator_TableVarName="tablekangrubu" msprop:Generator_TablePropName="kangrubu" msprop:Generator_RowDeletingName="kangrubuRowDeleting" msprop:Generator_RowChangingName="kangrubuRowChanging" msprop:Generator_RowEvHandlerName="kangrubuRowChangeEventHandler" msprop:Generator_RowDeletedName="kangrubuRowDeleted" msprop:Generator_UserTableName="kangrubu" msprop:Generator_RowChangedName="kangrubuRowChanged" msprop:Generator_RowEvArgName="kangrubuRowChangeEvent" msprop:Generator_RowClassName="kangrubuRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="kangrubuadi" msprop:Generator_ColumnVarNameInTable="columnkangrubuadi" msprop:Generator_ColumnPropNameInRow="kangrubuadi" msprop:Generator_ColumnPropNameInTable="kangrubuadiColumn" msprop:Generator_UserColumnName="kangrubuadi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

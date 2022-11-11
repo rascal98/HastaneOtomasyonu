@@ -1,0 +1,236 @@
+F:\Hastane\Hastane\Hastane\bin\Debug\Hastane.exe.config
+F:\Hastane\Hastane\Hastane\bin\Debug\Hastane.exe
+F:\Hastane\Hastane\Hastane\bin\Debug\Hastane.pdb
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.csprojResolveAssemblyReference.cache
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.Cache
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.exe
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.pdb
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.Resource1.resources
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.personel.resources
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.girisekrani.resources
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.hastaekle.resources
+F:\Hastane\Hastane\Hastane\bin\Debug\Hastane.accdb
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.randevu.resources
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.doktorekran.resources
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.monitor.resources
+F:\Hastane\Hastane\Hastane\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Hastane\Hastane - Kopya\Hastane\obj\Debug\Hastane.csprojResolveAssemblyReference.cache
+F:\Hastane\Hastane - Kopya\Hastane\obj\Debug\Hastane.doktorekran.resources
+F:\Hastane\Hastane - Kopya\Hastane\obj\Debug\Hastane.girisekrani.resources
+F:\Hastane\Hastane - Kopya\Hastane\obj\Debug\Hastane.hastaekle.resources
+F:\Hastane\Hastane - Kopya\Hastane\obj\Debug\Hastane.monitor.resources
+F:\Hastane\Hastane - Kopya\Hastane\obj\Debug\Hastane.personel.resources
+F:\Hastane\Hastane - Kopya\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+F:\Hastane\Hastane - Kopya\Hastane\obj\Debug\Hastane.randevu.resources
+F:\Hastane\Hastane - Kopya\Hastane\obj\Debug\Hastane.Resource1.resources
+F:\Hastane\Hastane - Kopya\Hastane\obj\Debug\Hastane.csproj.GenerateResource.Cache
+F:\Hastane\Hastane - Kopya\Hastane\obj\Debug\Hastane.exe
+F:\Hastane\Hastane - Kopya\Hastane\bin\Debug\Hastane.accdb
+F:\Hastane\Hastane - Kopya\Hastane\bin\Debug\Hastane.exe.config
+F:\Hastane\Hastane - Kopya\Hastane\bin\Debug\Hastane.exe
+F:\Hastane\Hastane - Kopya\Hastane\bin\Debug\Hastane.pdb
+F:\Hastane\Hastane - Kopya\Hastane\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Hastane\Hastane - Kopya\Hastane\obj\Debug\Hastane.pdb
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.Personelekran.resources
+F:\Hastane\Hastane\Hastane\obj\Debug\Hastane.adminpanel.resources
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.csprojResolveAssemblyReference.cache
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.adminpanel.resources
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.doktorekran.resources
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.girisekrani.resources
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.hastaekle.resources
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.monitor.resources
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.personel.resources
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.Personelekran.resources
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.randevu.resources
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.Resource1.resources
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.Cache
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.exe
+D:\Yeni klasör\Hastane\Hastane\obj\Debug\Hastane.pdb
+D:\Yeni klasör\Hastane\Hastane\bin\Debug\Hastane.accdb
+D:\Yeni klasör\Hastane\Hastane\bin\Debug\Hastane.exe.config
+D:\Yeni klasör\Hastane\Hastane\bin\Debug\Hastane.exe
+D:\Yeni klasör\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\user\Desktop\Hastane\Hastane\bin\Debug\Hastane.accdb
+C:\Users\user\Desktop\Hastane\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\user\Desktop\Hastane\Hastane\bin\Debug\Hastane.exe
+C:\Users\user\Desktop\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.adminpanel.resources
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.doktorekran.resources
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.girisekrani.resources
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.hastaekle.resources
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.monitor.resources
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.personel.resources
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.Personelekran.resources
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.randevu.resources
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.Resource1.resources
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\user\Desktop\Hastane\Hastane\obj\Debug\Hastane.pdb
+I:\Yeni klasör (2)\Hastane\Hastane\bin\Debug\Hastane.accdb
+I:\Yeni klasör (2)\Hastane\Hastane\bin\Debug\Hastane.exe.config
+I:\Yeni klasör (2)\Hastane\Hastane\bin\Debug\Hastane.exe
+I:\Yeni klasör (2)\Hastane\Hastane\bin\Debug\Hastane.pdb
+I:\Yeni klasör (2)\Hastane\Hastane\bin\Debug\Bunifu_UI_v1.5.3.dll
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.csprojResolveAssemblyReference.cache
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.adminpanel.resources
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.doktorekran.resources
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.girisekrani.resources
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.hastaekle.resources
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.monitor.resources
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.personel.resources
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.Personelekran.resources
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.randevu.resources
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.Resource1.resources
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.Cache
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.exe
+I:\Yeni klasör (2)\Hastane\Hastane\obj\Debug\Hastane.pdb
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\bin\Debug\Hastane.accdb
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\bin\Debug\Hastane.exe.config
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\bin\Debug\Hastane.exe
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\bin\Debug\Hastane.pdb
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\bin\Debug\Bunifu_UI_v1.5.3.dll
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.csprojResolveAssemblyReference.cache
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.adminpanel.resources
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.doktorekran.resources
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.girisekrani.resources
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.hastaekle.resources
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.monitor.resources
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.personel.resources
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.Personelekran.resources
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.randevu.resources
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.Resource1.resources
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.Cache
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.exe
+I:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.pdb
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\bin\Debug\Hastane.accdb
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\bin\Debug\Hastane.exe.config
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\bin\Debug\Hastane.exe
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\bin\Debug\Hastane.pdb
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.csprojResolveAssemblyReference.cache
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.adminpanel.resources
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.doktorekran.resources
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.girisekrani.resources
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.hastaekle.resources
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.monitor.resources
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.personel.resources
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.Personelekran.resources
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.randevu.resources
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.Resource1.resources
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.Cache
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.exe
+D:\Yeni klasör (2) - Kopya\Hastane\Hastane\obj\Debug\Hastane.pdb
+I:\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Hastane.accdb
+I:\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Hastane.exe.config
+I:\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Hastane.exe
+I:\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Hastane.pdb
+I:\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Bunifu_UI_v1.5.3.dll
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.csprojResolveAssemblyReference.cache
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.adminpanel.resources
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.doktorekran.resources
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.girisekrani.resources
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.hastaekle.resources
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.monitor.resources
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.personel.resources
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.Personelekran.resources
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.randevu.resources
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.Resource1.resources
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.Cache
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.exe
+I:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.pdb
+D:\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Hastane.accdb
+D:\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Hastane.exe.config
+D:\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Hastane.exe
+D:\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Hastane.pdb
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.csprojResolveAssemblyReference.cache
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.adminpanel.resources
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.doktorekran.resources
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.girisekrani.resources
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.hastaekle.resources
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.monitor.resources
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.personel.resources
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.Personelekran.resources
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.randevu.resources
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.Resource1.resources
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.Cache
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.exe
+D:\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.pdb
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Hastane.accdb
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Hastane.exe
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.csprojResolveAssemblyReference.cache
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.adminpanel.resources
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.doktorekran.resources
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.girisekrani.resources
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.hastaekle.resources
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.monitor.resources
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.personel.resources
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.Personelekran.resources
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.randevu.resources
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.Resource1.resources
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.Cache
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\umut\Desktop\hastane son hali - Kopya\Hastane\Hastane\obj\Debug\Hastane.pdb
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\bin\Debug\Hastane.accdb
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\bin\Debug\Hastane.exe
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.csprojResolveAssemblyReference.cache
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.adminpanel.resources
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.doktorekran.resources
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.girisekrani.resources
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.hastaekle.resources
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.monitor.resources
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.personel.resources
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.Personelekran.resources
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.randevu.resources
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.Resource1.resources
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.Cache
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\umut\Desktop\Hastane Beta\Hastane\Hastane\obj\Debug\Hastane.pdb
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\bin\Debug\Hastane.accdb
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\bin\Debug\Hastane.exe.config
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\bin\Debug\Hastane.exe
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\bin\Debug\Hastane.pdb
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\obj\Debug\Hastane.csprojResolveAssemblyReference.cache
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\obj\Debug\Hastane.adminpanel.resources
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\obj\Debug\Hastane.doktorekran.resources
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\obj\Debug\Hastane.girisekrani.resources
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\obj\Debug\Hastane.monitor.resources
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\obj\Debug\Hastane.Personelekran.resources
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\obj\Debug\Hastane.Resource1.resources
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.Cache
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\obj\Debug\Hastane.exe
+F:\PROGRAMLAMA\Hastane Beta2\Hastane\Hastane\obj\Debug\Hastane.pdb
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\bin\Debug\Hastane.accdb
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\bin\Debug\Hastane.exe.config
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\bin\Debug\Hastane.exe
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\bin\Debug\Hastane.pdb
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.AssemblyReference.cache
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\obj\Debug\Hastane.adminpanel.resources
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\obj\Debug\Hastane.doktorekran.resources
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\obj\Debug\Hastane.girisekrani.resources
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\obj\Debug\Hastane.monitor.resources
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\obj\Debug\Hastane.Personelekran.resources
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\obj\Debug\Hastane.Properties.Resources.resources
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\obj\Debug\Hastane.Resource1.resources
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.GenerateResource.cache
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.CopyComplete
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\obj\Debug\Hastane.exe
+\\SQLSERVER\Kullanıcılar$\u.eskitoglu\Desktop\Hastane\Hastane\obj\Debug\Hastane.pdb
